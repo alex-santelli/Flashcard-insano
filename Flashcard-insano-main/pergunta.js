@@ -1,24 +1,24 @@
 criaCartao(
-    'Geografia',
-    'Qual é o país que possuí mais ilhas no mundo?',
-    'O país que possuí mais ilhas no mundo é a Suécia.'
+    'gastronomia',
+    'Como é o nome da ação de aquecer um alimento em um recipente com água?',
+    'Cozir'
     )
     
     criaCartao(
-    'Geografia',
-    'Em qual país está o Monte Everest?',
-    'O Monte Everest está no Nepal.'
+    'gastronomia',
+    'A canjica também é conhecida como?',
+    'milho doce'
     )
     
     criaCartao(
-    'História',
-    'Em qual país foi criada a primeira bomba atômica?',
-    'A primeira bomba atômica foi criada nos EUA.'
+    'gastronomia',
+    'COm qual vegetal é feito o ketchup?',
+    'tomate'
     
     )
     criaCartao(
-        'História',
-        'Qual povo previa o fim do mundo em 2012?',
-        'O povo que previa o fim do mundo em 2012 foram os Maias.'
+        'gastronomia',
+        'qual é o outro nome pra mandioca?',
+        'aipim'
         
         )
